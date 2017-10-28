@@ -1,3 +1,3 @@
-#Anax Flat
+# Anax Flat
 
 Flat CMS based on Anax.
