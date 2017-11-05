@@ -4,7 +4,7 @@ titleBreadcrumb: Hem
 En Me-sida i kursen Design
 ==========================
 
-<img src="img/me001bws.jpg" style="float: left; margin: 0 10px 10px 0;"> 
+<img src="img/me001bws.jpg" class="img-float-left">
 Jag heter Johnny, är 37 år och bor i den nordväst-skånska lilla staden
 Ängelholm. Till vardags jobbar jag på prisjämförelse­sajten Prisjakts “Content”-
 avdelning med bl.a. analys av indexerings­data och olika projekt som berör
