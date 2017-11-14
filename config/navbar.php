@@ -68,7 +68,7 @@ return [
             ],
 
             "report" => [
-                "text"  => t("Report"),
+                "text"  => t("Redovisning"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisning för kmom 01-10"),
                 "mark-if-parent" => true,
