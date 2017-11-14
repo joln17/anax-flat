@@ -27,6 +27,18 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid"),
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi"),
+            ],
+
             "about" => [
                 "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -60,6 +72,18 @@ return [
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisning för kmom 01-10"),
                 "mark-if-parent" => true,
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Grid"),
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typografi"),
             ],
 
             "about" => [
