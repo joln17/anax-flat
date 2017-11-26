@@ -48,7 +48,8 @@ Swedbank
 2. Vitt rgb(255, 255, 255) används som bakgrundsfärg. Orange rgb(243, 91, 28)
 används för bl.a. knappar och rubriker och orange är också färgen som återfinns
 i bankens logotyp. Länkar och enstaka andra element har en blå-grön rgb(37, 120, 134)
-nyans.
+nyans. Bakgrunden på navbar och menyer har en svag orange nyans rgb(251, 242, 234)
+medan bakgrunden på vissa content-element har en svag blå-grön nyans rgb(233, 247, 251).
 ![Färger på Swedbanks sida](img/analysis/colours002.png)
 
 3. Sidan använder ett kompletterande färgschema där orange är den dominerande
