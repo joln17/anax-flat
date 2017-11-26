@@ -32,31 +32,41 @@ return [
         "light"     =>  [
             "title"      => "Very light theme, white, black and nuances of grey",
             "class"      => "light",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/light.min.css"
+            ]
         ],
 
         "color"     => [
             "title"      => "Enhance the light theme by adding a tiny bit of color",
             "class"      => "color",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/color.min.css"
+            ]
         ],
 
         "dark"      => [
             "title"      => "Dark background and light text",
             "class"      => "dark",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/dark.min.css"
+            ]
         ],
 
         "colorful"  => [
             "title"      => "Make a very colorful theme",
             "class"      => "colorful",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/colorful.min.css"
+            ]
         ],
 
         "typography" => [
             "title"      => "A theme where the typography really stands out",
-            "class"      => "light",
-            "stylesheets" => []
+            "class"      => "typo",
+            "stylesheets" => [
+                "css/typo.min.css"
+            ]
         ],
 
         "separator2" => "------------------------------------------------",
