@@ -19,13 +19,13 @@ den profil ni uppfattar att webbplatsen vill ha.
 Handelsbanken
 -------------------------------
 1. Handelsbankens sida:
-![Handelsbankens sida](img/analysis/site001.png)
+[FIGURE src="image/analysis/site001.png" class="center" alt="Handelsbankens sida"]
 
 2. En ljusgrå färg rgb(34, 34, 34) används som bakgrundsfärg på sidan. Sidan
 domineras i övrigt av blåa nyanser: rgb(0, 0, 238) används på bl.a. knappar,
 rgb(0, 95, 165) används bl.a. i navbar och menyer och rgb(0, 128, 187)
 används i H1-rubriker. Blått är också färgen i bankens logotyp.
-![Färger på Handelsbankens sida](img/analysis/colours001.png)
+[FIGURE src="image/analysis/colours001.png" class="center" alt="Färger på Handelsbankens sida"]
 
 3. Sidan använder ett blått analogt färgschema.
 
@@ -43,14 +43,14 @@ använder sig av ganska färgglada och varma bilder på sidan.
 Swedbank
 -------------------------------
 1. Swedbanks sida:
-![Swedbanks sida](img/analysis/site002.png)
+[FIGURE src="image/analysis/site002.png" class="center" alt="Swedbanks sida"]
 
 2. Vitt rgb(255, 255, 255) används som bakgrundsfärg. Orange rgb(243, 91, 28)
 används för bl.a. knappar och rubriker och orange är också färgen som återfinns
 i bankens logotyp. Länkar och enstaka andra element har en blå-grön rgb(37, 120, 134)
 nyans. Bakgrunden på navbar och menyer har en svag orange nyans rgb(251, 242, 234)
 medan bakgrunden på vissa content-element har en svag blå-grön nyans rgb(233, 247, 251).
-![Färger på Swedbanks sida](img/analysis/colours002.png)
+[FIGURE src="image/analysis/colours002.png" class="center" alt="Färger på Swedbanks sida"]
 
 3. Sidan använder ett kompletterande färgschema där orange är den dominerande
 färgen som kompletteras av den blå-gröna färgen.
@@ -68,14 +68,14 @@ bank som vanligen vill ge en lugn och förtroendeingivande känsla.
 Avanza
 -------------------------------
 1. Avanzas sida:
-![Avanzas sida](img/analysis/site003.png)
+[FIGURE src="image/analysis/site003.png" class="center" alt="Avanzas sida"]
 
 2. Vitt rgb(255, 255, 255) används som bakgrundsfärg. Grönt rgb(0, 194, 129)
 återfinns i bankens logotyp och är färgen som används i navbar, menyer, grafer
 m.m. Blå rgb(0, 158, 207) används som färg på länkar och på kursutvecklingen om
 den positiv. Rött rgb(253, 107, 96) används på enstaka knappar och på
 kursutvecklingen om den är negativ.
-![Färger på Avanzas sida](img/analysis/colours003.png)
+[FIGURE src="image/analysis/colours003.png" class="center" alt="Färger på Avanzas sida"]
 
 3. Sidan använder ett analogt grön-blått färgschema med en röd accentfärg.
 

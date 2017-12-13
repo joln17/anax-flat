@@ -70,11 +70,52 @@ return [
         ],
 
         "separator2" => "------------------------------------------------",
+        "photo" => [
+            "title"      => "A theme with a photo background",
+            "class"      => "photo",
+            "stylesheets" => [
+                "css/photo.min.css"
+            ]
+        ],
 
+        "texture" => [
+            "title"      => "A theme with a texture background",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+
+        "gradient" => [
+            "title"      => "A theme with a gradient background",
+            "class"      => "gradient",
+            "stylesheets" => [
+                "css/gradient.min.css"
+            ]
+        ],
+
+        "separator3" => "------------------------------------------------",
+        "movement" => [
+            "title"      => "A theme with movement",
+            "class"      => "movement",
+            "stylesheets" => [
+                "css/movement.min.css"
+            ]
+        ],
+
+        "perspective" => [
+            "title"      => "A theme with perspective",
+            "class"      => "perspective",
+            "stylesheets" => [
+                "css/perspective.min.css"
+            ]
+        ],
+        /*
         "fun"       => [
             "title"      => "All fun, test and play, make it stand out!",
             "class"      => "fun",
             "stylesheets" => []
         ],
+        */
     ]
 ];

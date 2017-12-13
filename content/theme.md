@@ -1,4 +1,4 @@
-Teman
+Färgteman
 ========================================
 
 [Länk till Temaväljaren](theme-selector)

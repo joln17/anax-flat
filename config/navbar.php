@@ -52,12 +52,12 @@ return [
                             "url"   => $this->di->get("url")->create("report/kmom05"),
                             "title" => t("Kmom05"),
                         ],
-                        /*"kmom06" => [
+                        "kmom06" => [
                             "text"  => t("Kmom06"),
                             "url"   => $this->di->get("url")->create("report/kmom06"),
                             "title" => t("Kmom06"),
                         ],
-                        "kmom10" => [
+                        /*"kmom10" => [
                             "text"  => t("Kmom10"),
                             "url"   => $this->di->get("url")->create("report/kmom10"),
                             "title" => t("Kmom10"),
@@ -78,18 +78,23 @@ return [
                             "url"   => $this->di->get("url")->create("analysis/colorscheme"),
                             "title" => t("Färgschema"),
                         ],
-                        "typography" => [
+                        "speed" => [
                             "text"  => t("Laddningstid"),
                             "url"   => $this->di->get("url")->create("analysis/speed-and-usability"),
                             "title" => t("Laddningstid"),
+                        ],
+                        "design" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("analysis/design-principles"),
+                            "title" => t("Designprinciper"),
                         ],
                     ],
                 ],
             ],
 
-            "theme" => [
+            "theme-toc" => [
                 "text"  => t("Teman"),
-                "url"   => $this->di->get("url")->create("theme"),
+                "url"   => $this->di->get("url")->create("theme-toc"),
                 "title" => t("Teman"),
                 "submenu" => [
                     "items" => [
@@ -97,6 +102,21 @@ return [
                             "text"  => t("Temaväljaren"),
                             "url"   => $this->di->get("url")->create("theme-selector"),
                             "title" => t("Temaväljaren"),
+                        ],
+                        "theme" => [
+                            "text"  => t("Färger"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Färger"),
+                        ],
+                        "design-element" => [
+                            "text"  => t("Designelement"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Designelement"),
+                        ],
+                        "design-principle" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("Designprinciper"),
                         ],
                     ],
                 ],
@@ -194,12 +214,12 @@ return [
                             "url"   => $this->di->get("url")->create("report/kmom05"),
                             "title" => t("Kmom05"),
                         ],
-                        /*"kmom06" => [
+                        "kmom06" => [
                             "text"  => t("Kmom06"),
                             "url"   => $this->di->get("url")->create("report/kmom06"),
                             "title" => t("Kmom06"),
                         ],
-                        "kmom10" => [
+                        /*"kmom10" => [
                             "text"  => t("Kmom10"),
                             "url"   => $this->di->get("url")->create("report/kmom10"),
                             "title" => t("Kmom10"),
@@ -220,18 +240,23 @@ return [
                             "url"   => $this->di->get("url")->create("analysis/colorscheme"),
                             "title" => t("Färgschema"),
                         ],
-                        "typography" => [
+                        "speed" => [
                             "text"  => t("Laddningstid"),
                             "url"   => $this->di->get("url")->create("analysis/speed-and-usability"),
                             "title" => t("Laddningstid"),
+                        ],
+                        "design" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("analysis/design-principles"),
+                            "title" => t("Designprinciper"),
                         ],
                     ],
                 ],
             ],
 
-            "theme" => [
+            "theme-toc" => [
                 "text"  => t("Teman"),
-                "url"   => $this->di->get("url")->create("theme"),
+                "url"   => $this->di->get("url")->create("theme-toc"),
                 "title" => t("Teman"),
                 "submenu" => [
                     "items" => [
@@ -239,6 +264,21 @@ return [
                             "text"  => t("Temaväljaren"),
                             "url"   => $this->di->get("url")->create("theme-selector"),
                             "title" => t("Temaväljaren"),
+                        ],
+                        "theme" => [
+                            "text"  => t("Färger"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Färger"),
+                        ],
+                        "design-element" => [
+                            "text"  => t("Designelement"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Designelement"),
+                        ],
+                        "design-principle" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("Designprinciper"),
                         ],
                     ],
                 ],

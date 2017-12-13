@@ -19,7 +19,7 @@ SVD.se
 * Länk ekonomisidan: [https://www.svd.se/naringsliv](https://www.svd.se/naringsliv)
 * Länk ledarsidan: [https://www.svd.se/ledare](https://www.svd.se/ledare)
 
-![Snapshot SVD.se](img/analysis/snapshot-svd.jpg)
+[FIGURE src="image/analysis/snapshot-svd.jpg"  class="center" alt="Snapshot SVD.se"]
 
 ### Sammanfattning av resultat i Google PageSpeed för förstasidan på SVD.se
 
@@ -50,7 +50,7 @@ SVD.se
 | Load (s)           |   3,74 |   2,62 |
 
 ### Fördelning över vad som läses in för SVD.se
-![Requests SVD.se](img/analysis/perf-svd.png)
+[FIGURE src="image/analysis/perf-svd.png" class="center" alt="Requests SVD.se"]
 
 ### Sammanfattning av test av SVD.se
 Av det egna innehållet är det framförallt optimering av en del bilder på
@@ -64,7 +64,7 @@ DN.se
 * Länk ekonomisidan: [https://www.dn.se/ekonomi/](https://www.dn.se/ekonomi/)
 * Länk ledarsidan: [https://www.dn.se/ledare/](https://www.dn.se/ledare/)
 
-![Snapshot DN.se](img/analysis/snapshot-dn.jpg)
+[FIGURE src="image/analysis/snapshot-dn.jpg" class="center" alt="Snapshot DN.se"]
 
 ### Sammanfattning av resultat i Google PageSpeed för förstasidan på DN.se
 
@@ -95,7 +95,7 @@ DN.se
 | Load (s)           |   9,94 |   2,56 |
 
 ### Fördelning över vad som läses in för DN.se
-![Requests DN.se](img/analysis/perf-dn.png)
+[FIGURE src="image/analysis/perf-dn.png" class="center" alt="Requests DN.se"]
 
 ### Sammanfattning av test av DN.se
 Utan reklam är antalet requests ~90-100, med reklam stiger den till hela
@@ -110,7 +110,7 @@ GP.se
 * Länk ekonomisidan: [http://www.gp.se/nyheter/ekonomi](http://www.gp.se/nyheter/ekonomi)
 * Länk ledarsidan: [http://www.gp.se/ledare](http://www.gp.se/ledare)
 
-![Snapshot GP.se](img/analysis/snapshot-gp.jpg)
+[FIGURE src="image/analysis/snapshot-gp.jpg" class="center" alt="Snapshot GP.se"]
 
 ### Sammanfattning av resultat i Google PageSpeed för förstasidan på GP.se
 
@@ -141,7 +141,7 @@ GP.se
 | Load (s)           |   5,89 |   3,40 |
 
 ### Fördelning över vad som läses in för GP.se
-![Requests GP.se](img/analysis/perf-gp.png)
+[FIGURE src="image/analysis/perf-gp.png" class="center" alt="Requests GP.se"]
 
 ### Sammanfattning av test av GP.se
 GP borde framförallt optimera sin mobilsida bättre. Ekonomisidan på mobil fick
