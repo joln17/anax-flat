@@ -57,11 +57,11 @@ return [
                             "url"   => $this->di->get("url")->create("report/kmom06"),
                             "title" => t("Kmom06"),
                         ],
-                        /*"kmom10" => [
+                        "kmom10" => [
                             "text"  => t("Kmom10"),
                             "url"   => $this->di->get("url")->create("report/kmom10"),
                             "title" => t("Kmom10"),
-                        ],*/
+                        ],
                     ],
                 ],
             ],
@@ -88,6 +88,16 @@ return [
                             "url"   => $this->di->get("url")->create("analysis/design-principles"),
                             "title" => t("Designprinciper"),
                         ],
+                        "usability" => [
+                            "text"  => t("Användbarhet"),
+                            "url"   => $this->di->get("url")->create("analysis/usability"),
+                            "title" => t("Användbarhet"),
+                        ],
+                        "write" => [
+                            "text"  => t("Skrivsätt"),
+                            "url"   => $this->di->get("url")->create("analysis/write"),
+                            "title" => t("Skrivsätt"),
+                        ],
                     ],
                 ],
             ],
@@ -96,6 +106,7 @@ return [
                 "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("theme-toc"),
                 "title" => t("Teman"),
+                "mark-if-parent" => true,
                 "submenu" => [
                     "items" => [
                         "theme-selector" => [
@@ -219,11 +230,11 @@ return [
                             "url"   => $this->di->get("url")->create("report/kmom06"),
                             "title" => t("Kmom06"),
                         ],
-                        /*"kmom10" => [
+                        "kmom10" => [
                             "text"  => t("Kmom10"),
                             "url"   => $this->di->get("url")->create("report/kmom10"),
                             "title" => t("Kmom10"),
-                        ],*/
+                        ],
                     ],
                 ],
             ],
@@ -250,6 +261,16 @@ return [
                             "url"   => $this->di->get("url")->create("analysis/design-principles"),
                             "title" => t("Designprinciper"),
                         ],
+                        "usability" => [
+                            "text"  => t("Användbarhet"),
+                            "url"   => $this->di->get("url")->create("analysis/usability"),
+                            "title" => t("Användbarhet"),
+                        ],
+                        "write" => [
+                            "text"  => t("Skrivsätt"),
+                            "url"   => $this->di->get("url")->create("analysis/write"),
+                            "title" => t("Skrivsätt"),
+                        ],
                     ],
                 ],
             ],
@@ -258,6 +279,7 @@ return [
                 "text"  => t("Teman"),
                 "url"   => $this->di->get("url")->create("theme-toc"),
                 "title" => t("Teman"),
+                "mark-if-parent" => true,
                 "submenu" => [
                     "items" => [
                         "theme-selector" => [
